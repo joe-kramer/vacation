@@ -1,0 +1,8 @@
+.row:nth-child(even) {
+  background-color: yellow;
+  border: 2px dashed black;
+}
+
+h4 {
+  font-style: italic;
+}
